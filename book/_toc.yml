@@ -5,6 +5,10 @@ parts:
   - caption: Contents
     chapters:
     - file: some_content/H1.md
+    - file: some_content/H2.md
+    - file: some_content/H3.md
+    - file: some_content/H4.md
+    - file: some_content/H5.md
       sections:
       - file: some_content/text_and_code.ipynb
     - file: some_content/H2.md
