@@ -4,13 +4,13 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
-    - file: some_content/H1.md
-    - file: some_content/H2.md
-    - file: some_content/H3.md
-    - file: some_content/H4.md
-    - file: some_content/H5.md
+    - file: H1/H1.md
+    - file: H1/H2.md
+    - file: H1/H3.md
+    - file: H1/H4.md
+    - file: H1/H5.md
       sections:
-      - file: some_content/text_and_code.ipynb
+      - file: H1/text_and_code.ipynb
     - file: references.md
     - file: changelog.md
     - file: credits.md
