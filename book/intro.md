@@ -5,5 +5,4 @@ _Dit hebben wij aangepast. This is the first page the student will see when open
 _https://sites.google.com/chrlyceumdelft.nl/natuurkunde-onderbouw/home
 This book can be used as a template for other books. It includes a starter package of the software developed by the TeachBooks initiative.
 
-[
-](https://www.youtubeeducation.com/watch?v=1VUp4kKQufU)
+(https://www.youtubeeducation.com/watch?v=1VUp4kKQufU)
