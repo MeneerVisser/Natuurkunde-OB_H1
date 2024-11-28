@@ -1,5 +1,5 @@
 (intro)=
-# Welcome to het gekoliniseerde gedeelte van Lex en Josef  
+# Welkom bij natuurkunde leerlingen uit de OB! 
 
 _Dit hebben wij aangepast. This is the first page the student will see when opening the url._
 
